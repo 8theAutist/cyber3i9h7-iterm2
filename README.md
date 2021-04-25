@@ -1,6 +1,7 @@
 # iTerm2 'r3tro wave'y Design - cyber3i9h7 Theme
 
 An iTerm2 color scheme based on a retro/cyber wave colour pallette  
+</br>
 ![terminal](cyber3i9h7_screenshot.png)  
 
 ## Install
@@ -10,8 +11,8 @@ An iTerm2 color scheme based on a retro/cyber wave colour pallette
 3. Choose *Profiles Page   
 ![preferences](iterm2_profiles-menu.png)  
 
-*Colors Tab*  
-![preferences](iterm2_colors-tab.png)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Colors Tab*  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![preferences](iterm2_colors-tab.png)  
 
 4. Drop down *Load Presets...*
 5. Choose *Import...*
