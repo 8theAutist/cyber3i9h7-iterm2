@@ -17,12 +17,18 @@ An iTerm2 color scheme based on retro wave/cyber wave colour pallette
 ## Fonts
 
 8. From the same *Profiles Page > Text Tab*
-9. Under *Cursor* [x]Box
-10. Under *Text Rendering* [x]Draw bold text in bold font and []Use built-in Powerline glyphs
-11. Under *Font* []Use ligatures and [x]Use a different font for non-ASCII text
-    [JetBrains Mono NL Regular Nerd Font](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/JetBrainsMono/NoLigatures/Regular/complete)
-12. Under *Non-ASCII Font* [x]Use Ligatures
-    [JetBrains Mono Medium Nerd Font](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/JetBrainsMono/Ligatures/Medium/complete)
+9. Under *Cursor* 
+- [x] Box
+10. Under *Text Rendering* 
+- [x] Draw bold text in bold font
+- [ ] Use built-in Powerline glyphs
+11. Drop down *Font* and choose 
+[JetBrains Mono NL Regular Nerd Font](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/JetBrainsMono/NoLigatures/Regular/complete)
+- [ ] Use ligatures
+- [x] Use a different font for non-ASCII text
+12. Drop down *Non-ASCII Font* and choose 
+[JetBrains Mono Medium Nerd Font](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/JetBrainsMono/Ligatures/Medium/complete)
+- [x] Use Ligatures
 
 13. ⚡️RADICAL⚡️ DUDE! 😎
 
