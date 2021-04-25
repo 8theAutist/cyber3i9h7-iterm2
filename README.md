@@ -1,25 +1,32 @@
 # iTerm2 'r3tro wave'y Design - cyber3i9h7 Theme
 
-An iTerm2 color scheme based on retro wave/cyber wave colour pallette
-
-![terminal](cyber3i9h7_screenshot.png)
+An iTerm2 color scheme based on a retro/cyber wave colour pallette  
+![terminal](cyber3i9h7_screenshot.png)  
 
 ## Install
 
 1. Download the file `3i9h7.itermcolors`
 2. Open the iTerm2 Preferences menu with hotkey *command+,* or iTerm > Preferences in the menubar
-3. Choose *Profiles Page > Colors Tab*
+3. Choose *Profiles Page   
+![preferences](iterm2_profiles-menu.png)  
+
+*Colors Tab*  
+![preferences](iterm2_colors-tab.png)  
+
 4. Drop down *Load Presets...*
 5. Choose *Import...*
 6. Select the `cyber3i9h7.itermcolors` file you downloaded
-7. Drop down *Load Presets...* again and select *cyber3i9h7*
+7. Drop down *Load Presets...* again and select *cyber3i9h7*  
+![preferences](iterm2_colorpresets-select.png)  
 
 ## Fonts
 
-8. From the same *Profiles Page > Text Tab*
-9. Under *Cursor* 
+8. From the same *Profiles Page > Text Tab*  
+![preferences](iterm2_text-tab.png)  
+
+9. *Cursor* section
 - [x] Box
-10. Under *Text Rendering* 
+10. *Text Rendering* section
 - [x] Draw bold text in bold font
 - [ ] Use built-in Powerline glyphs
 11. Drop down *Font* and choose 
@@ -36,11 +43,11 @@ An iTerm2 color scheme based on retro wave/cyber wave colour pallette
 
 Color             | Default          |  Lighter   |
 ---               | ---              |  ---       |
-Black             | `#080808`        |  `#dfc117` |
-Red               | `#ff8272`        |  `#ffc4bd` |
-Green             | `#00c172`        |  `#d6fcb9` |
-Yellow            | `#d2a700`        |  `#fefdd5` |
-Blue              | `#0071cf`        |  `#c1e3fe` |
-Magenta           | `#ff8ffd`        |  `#ffb1fe` |
-Cyan              | `#6bffdc`        |  `#e5e6fe` |
-White             | `#f1f1f1`        |  `#feffff` |
+Black             | `#171417`        |  `#414141` |
+Red               | `#ff7092`        |  `#ff99ae` |
+Green             | `#39e7ab`        |  `#89fca3` |
+Yellow            | `#d8e711`        |  `#fed797` |
+Blue              | `#ca52e7`        |  `#f315b1` |
+Magenta           | `#f45cc5`        |  `#fa95c6` |
+Cyan              | `#8e8b3d`        |  `#ddd860` |
+White             | `#e1b1e7`        |  `#ffffff` |
